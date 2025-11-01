@@ -41,8 +41,14 @@ The application demonstrates real-world FinTech security practices, including pa
 
 ## 🚀 Getting Started
 
-### **1️⃣ Prerequisites**
-Make sure Python 3.10+ is installed.
+### **1 Prerequisites**
+Make sure Python 3.10+ is installed.      
 
 ```bash
 pip install flask bcrypt cryptography werkzeug
+```
+
+### **2 To run** 
+```bash
+app.py
+
